@@ -4,5 +4,3 @@ matplotlib
 scikit-learn
 streamlit
 openpyxl
-seaborn
-pickle
